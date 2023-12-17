@@ -50,9 +50,4 @@ button:hover{
   font-family: noto nastaliq urdu;
   font-size: 22.5px;
 }
-#spacebar{
-  width: 20%; background-color: rgb(207, 221, 213); border-radius: 15px; aspect-ratio: 4/1;
-}
-#spacebar:hover{
-  background-color: black;
-}
+
